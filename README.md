@@ -28,7 +28,7 @@ https://dacon.io/competitions/official/236564/overview/description
 3. Download the three EasyOCR pretrained weights and place them inside the `model` folder.
    - **Note:** No additional fine-tuning was performed, and the results were actually better without fine-tuning.
    - You can get here -> https://huggingface.co/felflare/EasyOCR-weights/tree/main here.
-   - For using our weights, Please contact us. (qmdlghfl2@gmail.com)
+   - For using our weights, Please contact us. (8536048@gmail.com)
 4. Run `script.py`.
 5. Use `check_val_visual_score.ipynb` (evaluation code notebook) to visualize bounding boxes.
 6. After monitoring the results, execute `make_zip.ipynb` to generate the final submission zip file.
