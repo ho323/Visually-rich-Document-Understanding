@@ -1,0 +1,6 @@
+ultralytics
+pytesseract
+pdf2image
+Pillow
+pandas
+pdfplumber
