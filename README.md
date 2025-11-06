@@ -1,5 +1,5 @@
 ## Visually-rich Document Understanding 
-<img width="1056" height="217" alt="image" src="https://github.com/user-attachments/assets/021e1270-9d51-450a-bf18-b080a33c1441" />  
+<img width="1055" height="214" alt="image" src="https://github.com/user-attachments/assets/0e6007cf-3473-4c5a-8435-f8606295919b" />  
 https://dacon.io/competitions/official/236564/overview/description  
 
 <p align="center">
